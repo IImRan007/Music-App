@@ -1,6 +1,5 @@
 {
   "name": "music_player",
-  "homepage": "https://IImRan007.github.io/Music-App",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
